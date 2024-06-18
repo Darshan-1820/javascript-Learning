@@ -86,3 +86,4 @@ console.log(Boolean(0));          // false
 console.log(Boolean(45));         // true
 console.log(Boolean("hey"));      // true
 console.log(Boolean(true));       // true
+// COmment out
